@@ -5,7 +5,7 @@
     "alice": {
 
       "ads": {
-        "enabled": false,
+        "enabled": true,
         "banner": true,
         "interstitial": true,
 
