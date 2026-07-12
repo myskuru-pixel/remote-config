@@ -9,11 +9,11 @@
         "banner": true,
         "interstitial": true,
 
-        "start_after_launches": 1,
+        "start_after_launches": 3,
 
         "interval": 5,
 
-        "cooldown": 20,
+        "cooldown": 0,
 
         "max_per_session": 50
       },
