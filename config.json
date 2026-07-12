@@ -9,7 +9,7 @@
         "banner": true,
         "interstitial": true,
 
-        "start_after_launches": 3,
+        "start_after_launches": 1,
 
         "interval": 5,
 
