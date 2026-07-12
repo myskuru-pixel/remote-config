@@ -15,7 +15,7 @@
 
         "cooldown": 120,
 
-        "max_per_session": 5
+        "max_per_session": 50
       },
 
       "app": {
