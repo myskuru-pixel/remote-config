@@ -11,7 +11,7 @@
 
         "start_after_launches": 1,
 
-        "interval": 7,
+        "interval": 2,
 
         "cooldown": 60,
 
