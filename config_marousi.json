@@ -1,1 +1,27 @@
-ййуцуцц
+{
+  "config_version": 1,
+
+  "apps": {
+    "alice": {
+
+      "ads": {
+        "enabled": true,
+        "banner": true,
+        "interstitial": true,
+
+        "start_after_launches": 1,
+
+        "interval": 7,
+
+        "cooldown": 60,
+
+        "max_per_session": 50
+      },
+
+      "app": {
+        "min_version": 1,
+        "message": ""
+      }
+    }
+  }
+}
